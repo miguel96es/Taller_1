@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="Iniciar">Iniciar sesión</string>
+    <string name="User">Usuario</string>
+    <string name="Contra">Contraseña</string>
+    <string name="Pregunta">¿Todavía no tienes cuenta?</string>
+    <string name="Registrate">Registrate</string>
+    <string name="Correo">Correo electronico</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Volver">Volver al inicio</string>
+    <string name="Pregunta2">¿Ya tienes cuenta?</string>
+    <string name="Frase">Se te ha enviado un correo de validación a </string>
+    <string name="Bienvenido">Bienvenido usuario</string>
+
+</resources>
